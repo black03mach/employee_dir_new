@@ -1,7 +1,5 @@
 
 import React from "react";
-import "./style.css";
-
 
 function employee(props) {
 
@@ -12,11 +10,11 @@ function employee(props) {
 
                     {props.currentEmp.map(result => (
                         <li className="list-item" key={result.id}>
-                                <div id="name">{result.firstName} {result.lastName}</div>
-                                <div id="role">Role:{result.role} </div>
-                                <div id="email">Email: {result.email} </div>
-                                <div id="phone">Phone:{result.phone} </div>
-                                <div id="dept">Department:{result.dept} </div>
+                                <div>{result.firstName} {result.lastName}</div>
+                                <div>Role:{result.role} </div>
+                                <div>Email: {result.email} </div>
+                                <div>Phone:{result.phone} </div>
+                                <div>Department:{result.dept} </div>
                         </li>
                     ))}
                 </ul >

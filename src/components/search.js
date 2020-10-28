@@ -1,5 +1,4 @@
 import React from "react";
-import "./style.css";
 
 function Search (props) {
 
@@ -7,7 +6,7 @@ function Search (props) {
       <div>
        <h1>Current Employees</h1>
         
-       <div class="entertext">
+       <div>
         <form className="form">
           <input
             value={props.firstName}

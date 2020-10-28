@@ -49,7 +49,7 @@ class App extends Component {
   render() {
     return (
 
-      <div stylle="text-align: center">
+      <div>
 
         <Search
           firstName={this.state.firstName}
