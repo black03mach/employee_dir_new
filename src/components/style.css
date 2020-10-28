@@ -1,0 +1,9 @@
+body {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list-item{
+    color: black;
+    margin: 5px;
+}

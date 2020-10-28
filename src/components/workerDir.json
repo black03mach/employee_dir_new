@@ -1,0 +1,75 @@
+  
+[
+    {
+      "id": 1,
+      "firstName": "Patrick",
+      "lastName": "Wells",
+      "role": "Cheif Woof Officer",
+      "email": "pwells@woofer.com",
+      "phone": " (732) 852-6398",
+      "dept": "Management Committee"
+    },
+    {
+        "id": 2,
+        "firstName": "Atlas",
+        "lastName": "Wells",
+        "role": "Senior Sniffer",
+        "email": "BigChungus@woofer.com",
+        "phone": " (732) 325-9989",
+        "dept": "Treat Procurement"
+      },
+      {
+        "id": 3,
+        "firstName": "Maeve",
+        "lastName": "Taylor",
+        "role": "Fetch Lead",
+        "email": "QueenMaeve@woofer.com",
+        "phone": " (805) 213-6893",
+        "dept": "Fetch Logistics"
+      },
+      {
+        "id": 4,
+        "firstName": "Tiger",
+        "lastName": "Cat",
+        "role": "Meow Manager",
+        "email": "TC@woofer.com",
+        "phone": " (843) 492-1353",
+        "dept": "Mouse Management"
+      },
+      {
+        "id": 5,
+        "firstName": "Mitzy",
+        "lastName": "Meower",
+        "role": "Catnip Analyst",
+        "email": "MitzyMeow@woofer.com",
+        "phone": " (732) 862-7392",
+        "dept": "Nepeta Cataria Testing"
+      },
+      {
+        "id": 6,
+        "firstName": "Walyn",
+        "lastName": "Puppins",
+        "role": "Kibble Associate",
+        "email": "W.Puppins@woofer.com",
+        "phone": " (609) 456-8945",
+        "dept": "Consumables"
+      },
+      {
+        "id": 7,
+        "firstName": "Cheddar",
+        "lastName": "McCat",
+        "role": "Nap Engineer",
+        "email": "CheddarM.C@woofer.com",
+        "phone": " (804) 073-5554",
+        "dept": "Somnum Review"
+      },
+      {
+        "id": 8,
+        "firstName": "Ms",
+        "lastName": "Kitty",
+        "role": "Hiss Expert",
+        "email": "Ms.Kitty@woofer.com",
+        "phone": " (843) 374-2940",
+        "dept": "Iratus Engineering"
+      }
+  ]
